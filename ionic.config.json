@@ -1,0 +1,7 @@
+{
+  "name": "website-blyf",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
